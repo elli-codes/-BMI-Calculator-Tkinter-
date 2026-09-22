@@ -18,4 +18,4 @@ The application provides a graphical user interface (GUI) where users can calcul
 - MessageBox
 - File Handling
 
-YouTube video link: https://youtube.com/@ellislearningjourney?si=BwUaMJ2tFr43R_uL 
+YouTube video link: https://youtu.be/QCFzG5MrIX4?si=tnLgttF0o5z4dIDA
